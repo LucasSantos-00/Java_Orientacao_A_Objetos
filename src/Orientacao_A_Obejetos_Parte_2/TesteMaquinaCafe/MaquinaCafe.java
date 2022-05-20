@@ -1,4 +1,4 @@
-package TesteMaquinaCafe;
+package Orientacao_A_Obejetos_Parte_2.TesteMaquinaCafe;
 
 public class MaquinaCafe {
 
